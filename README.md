@@ -1,2 +1,2 @@
-# MiniProject
-Mini Project'23
+# TodoWeb
+A Todo WebApp that helps you maintain your daily schedule.
